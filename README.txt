@@ -73,7 +73,7 @@ utils/
 Demo
 ----
 Check out the screenshots and demo here:
-Live Demo Page: https://aryanallprojects.prolbox.com/Inventory Management System
+Live Demo Page: https://aryanallprojects.prolbox.com/Inventory%20Management%20System
 
 Author
 ------
